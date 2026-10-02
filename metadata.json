@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tetris Neo (テトリス)",
+  "description": "クラシックかつモダンな本格テトリスゲーム。SRS回転、ホールド、ゴースト表示、7-Bag、BGM・効果音を完備。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
